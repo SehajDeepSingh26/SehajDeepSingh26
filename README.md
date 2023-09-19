@@ -3,9 +3,9 @@
 <h3 align="center">A Passionate Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1589561253898-768105ca91a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aWRlYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60">
 
-- 🔭 I’m currently working on [Whack-a-Mole Game](https://whackamolekhelo.netlify.app/)
+- 🔭 I’m currently working on [Whack-a-Mole Game](https://whackamolekhelo.netlify.app/).
 
-- 🌱 I’m currently learning **React, NodeJs**
+- 🌱 I’m currently exploring **React, NodeJs and Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [github.com/SehajDeepSingh26](github.com/SehajDeepSingh26)
 
