@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring **React, NodeJs and Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [github.com/SehajDeepSingh26](github.com/SehajDeepSingh26)
+- 👨‍💻 All of my projects are available at [sehajdeep-singh.netlify.app](https://sehajdeep-singh.netlify.app/)
 
 - 📫 How to reach me **sehajdeep2611@gmail.com**
 
