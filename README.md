@@ -1,6 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Sehajdeep Singh</h1>
 <h3 align="center">A Passionate Developer from India</h3>
+ <p align="center">
+    <a href="https://www.codacy.com/manual/dakshkhetan/acm-bvp-website/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dakshkhetan/acm-bvp-website&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/0eb2af24b1fb4d579d39acd20b6416f3"/></a>
+    <a href="https://www.linkedin.com/in/sehajdeep-singh-/"><img alt="Linkdin Follow" src="https://img.shields.io/badge/linkedin.com%2Fin%2Fsehajdeep-singh-%2F?style=social&logo=linkdin&label=Follow-%40Sehajdeep&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsehajdeep-singh-%2F"/></a>
+ </p>
+   
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1589561253898-768105ca91a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aWRlYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60">
 
 - 🔭 My latest Project: [Whack-a-Mole Game](https://whackamolekhelo.netlify.app/).
