@@ -17,11 +17,11 @@
 
 ## Connect with me:
 <p align="left">
-<a href="mailto::sehajdeepsingh.test@gmail.com" target="blank">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-<a href="https://linkedin.com/in/sehajdeep-singh-" target="blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-<a href="https://instagram.com/__sehajdeep_singh" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-<a href="https://x.com/sehajdeep_se" target="blank">  <img src="https://img.shields.io/static/v1?message=x&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-<a href="https://instagram.com/__sehajdeep_singh" target="blank"> <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=964B00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /></a>
+<a href="mailto::sehajdeepsingh.test@gmail.com" target="blank">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"  /></a>
+<a href="https://linkedin.com/in/sehajdeep-singh-" target="blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedIn logo"  /></a>
+<a href="https://instagram.com/__sehajdeep_singh" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo"  /></a>
+<a href="https://x.com/sehajdeep_se" target="blank">  <img src="https://img.shields.io/static/v1?message=x&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo"  /></a>
+<a href="https://leetcode.com/u/sehajdeep2611" target="blank"> <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=964B00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Leetcode logo"  /></a>
 </p>
 
 ## Languages and Tools:
@@ -80,20 +80,28 @@
 
 
 ## 📊 GitHub Stats
-
-<div align="center" style="padding: 20px; margin: 30px; display: flex; gap:10;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SehajDeepSingh26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SehajDeepSingh26&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph" />
+<div align="center"">
+  <img src="http://github-widgets-cards.vercel.app/api/cards/stats?username=sehajdeepsingh26&theme=dracula" height="200" style="display:inline-block;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sehajdeepsingh26&locale=en&hide_title=false&layout=compact&card_width=420&line_height=45&langs_count=8&theme=dracula&hide_border=true&order=2" style="display:inline-block; " />
 </div>
+
+
 <br>
 
 <div align="center " style="padding: 20px; margin: 30px;">
   <img src="https://streak-stats.demolab.com?user=SehajDeepSingh26&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph" />
+ 
+ <!-- ![](http://github-widgets-cards.vercel.app/api/cards/repos-per-language?username=sehajdeepsingh26&theme=dracula)
+ --![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sehajdeepsingh26&theme=dracula) -->
 </div>
 <br>
-
+<div align="center">
+ 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SehajDeepSingh26&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
-
+</div>
+<br>
+<hr>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SehajDeepSingh26/SehajDeepSingh26/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SehajDeepSingh26/SehajDeepSingh26/output/pacman-contribution-graph.svg">
