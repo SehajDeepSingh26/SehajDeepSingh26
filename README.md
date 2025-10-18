@@ -20,7 +20,7 @@
 <a href="mailto::sehajdeepsingh.test@gmail.com" target="blank">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo"  /></a>
 <a href="https://linkedin.com/in/sehajdeep-singh-" target="blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedIn logo"  /></a>
 <a href="https://instagram.com/__sehajdeep_singh" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo"  /></a>
-<a href="https://x.com/sehajdeep_se" target="blank">  <img src="https://img.shields.io/static/v1?message=x&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo"  /></a>
+<a href="https://x.com/sehajdeep_se" target="blank" width="80">  <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo"  /></a>
 <a href="https://leetcode.com/u/sehajdeep2611" target="blank"> <img src="https://img.shields.io/static/v1?message=Leetcode&logo=leetcode&label=&color=964B00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Leetcode logo"  /></a>
 </p>
 
@@ -90,7 +90,12 @@
 <br>
 
 <div align="center " style="padding: 20px; margin: 30px;">
-  <img src="https://streak-stats.demolab.com?user=SehajDeepSingh26&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph" />
+  <img 
+  src="https://github-widgets-cards.vercel.app/api/cards/streak-stats?username=sehajdeepsingh26&theme=dracula" 
+  height="250" 
+  alt="streak graph" 
+  onerror="this.onerror=null; this.src='https://streak-stats.demolab.com?user=SehajDeepSingh26&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3';" 
+/>
  
  <!-- ![](http://github-widgets-cards.vercel.app/api/cards/repos-per-language?username=sehajdeepsingh26&theme=dracula)
  --![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sehajdeepsingh26&theme=dracula) -->
