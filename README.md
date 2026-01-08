@@ -91,7 +91,7 @@
 
 <div align="center " style="padding: 20px; margin: 30px;">
   <img 
-  src="https://github-widgets-cards.vercel.app/api/cards/streak-stats?username=sehajdeepsingh26&theme=dracula" 
+  src="http://github-widgets-cards.vercel.app/api/cards/streak-stats?username=sehajdeepsingh26&theme=dracula" 
   height="250" 
   alt="streak graph" 
   onerror="this.onerror=null; this.src='https://streak-stats.demolab.com?user=SehajDeepSingh26&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3';" 
