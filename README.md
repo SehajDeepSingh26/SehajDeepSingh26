@@ -83,7 +83,13 @@
 <div align="center"">
   <img src="http://github-widgets-cards.vercel.app/api/cards/stats?username=sehajdeepsingh26&theme=dracula" height="200" style="display:inline-block;" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sehajdeepsingh26&locale=en&hide_title=false&layout=compact&card_width=420&line_height=45&langs_count=8&theme=dracula&hide_border=true&order=2" style="display:inline-block; " />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sehajdeepsingh26&locale=en&hide_title=false&layout=compact&card_width=420&line_height=45&langs_count=8&theme=dracula&hide_border=true&order=2" style="display:inline-block; " /> -->
+  <img 
+  src="http://github-widgets-cards.vercel.app/api/cards/repos-per-language?username=sehajdeepsingh26&theme=dracula" 
+  height="250" 
+  alt="Repo-Language Stats" 
+/>
+  
 </div>
 
 
